@@ -27,9 +27,9 @@
     "hash",
     "beacon"
   ],
-  "version": "2.0.3",
+  "version": "2.0.4",
   "repository": {
-    "url": "https://github.com/grempe/nist-randomness-beacon"
+    "url": "https://github.com/chainpoint/nist-randomness-beacon"
   },
   "main": "index.js",
   "files": [
